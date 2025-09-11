@@ -1,6 +1,6 @@
 import requests
 import allure
-from data.urls import Urls
+from api.urls import Urls
 
 
 class OrderApi:
